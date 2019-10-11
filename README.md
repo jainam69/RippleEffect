@@ -29,13 +29,21 @@ dependencies {
 In Android App,
 
 <com.jainamdoshi.effectripple.RippleBackground
+
 	android:layout_width="match_parent"
+	
 	android:layout_height="match_parent"
+	
 	android:id="@+id/content"
+	
 	app:rb_color="#0099CC"
+	
 	app:rb_radius="32dp"
+	
 	app:rb_rippleAmount="6"
+	
 	app:rb_duration="3000"
+	
 	app:rb_scale="6">
 
 	<ImageView
