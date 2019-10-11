@@ -29,7 +29,6 @@ dependencies {
 In Android App,
 
 <com.jainamdoshi.effectripple.RippleBackground
-
 	android:layout_width="match_parent"
 	
 	android:layout_height="match_parent"
@@ -52,7 +51,6 @@ In Android App,
 		android:layout_centerInParent="true"
 		android:id="@+id/centerImage"
 		android:src="@drawable/phone1"/>
-
 </com.jainamdoshi.effectripple.RippleBackground>
 
 
