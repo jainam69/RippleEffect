@@ -28,6 +28,7 @@ dependencies {
 
 In Android App,
 
+
 <com.jainamdoshi.effectripple.RippleBackground
 
 	android:layout_width="match_parent"
